@@ -129,4 +129,4 @@ async def main():
         await start(client, username)
 
 sessionL = input('[+] Enter Session : ')
-run(main()). 
+run(main())
